@@ -1,0 +1,15 @@
+[package]
+name = "mvn_version"
+version = "0.0.0"
+authors = ["Moses Miller <Majora320@gmail.com>"]
+description = "An implementation of Maven's ComparableVersion and VersionRange"
+repository = "https://github.com/Majora320/mvn_version"
+readme = "README.md"
+license = "MIT"
+keywords = ["maven"]
+categories = ["parser-implementations"]
+edition = "2018"
+
+[dependencies]
+itertools = "0.10"
+num-bigint = "0.4"

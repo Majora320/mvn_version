@@ -1,0 +1,1 @@
+# mvn-version [![crates.io](https://img.shields.io/crates/v/mvn_version.svg)](https://crates.io/crates/mvn_version) [![Docs.rs](https://docs.rs/mvn_version/badge.svg)](https://docs.rs/mvn_version)
